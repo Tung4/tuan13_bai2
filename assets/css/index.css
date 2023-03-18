@@ -20,3 +20,21 @@ body {
   -ms-scroll-chaining: none;
       overscroll-behavior: contain;
 }
+
+header,
+main,
+footer {
+  height: 300px;
+}
+
+header {
+  background-color: green;
+}
+
+main {
+  background-color: red;
+}
+
+footer {
+  background-color: yellow;
+}
